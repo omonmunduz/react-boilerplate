@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Omurbek Nazarov",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omonmunduz/react-boilerplate.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/omonmunduz/react-boilerplate/issues"
+  },
+  "homepage": "https://github.com/omonmunduz/react-boilerplate#readme"
 }
